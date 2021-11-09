@@ -62,3 +62,5 @@ function getCompanyDetails() {
 function getDetails(name, age) {
   return [`Your name is ${name}`, `You are ${age} years old`];
 }
+
+// *github test
